@@ -1,6 +1,6 @@
 # Step 8 — Title and Abstract Screening
 
-[← Previous Step: Download and Manage the Search Results](../step-7-download-and-manage-search-results/)
+[← Previous Step: Download and Manage the Search Results](https://github.com/adnan-mayof/Download-the-Search-Results/blob/main/README.md)
 
 ---
 
