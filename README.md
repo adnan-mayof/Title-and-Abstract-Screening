@@ -666,10 +666,11 @@ step-8-title-and-abstract-screening/
 
 ---
 
-### Previous Step
 
-**Step 7 — Download and Manage the Search Results**
+## 🚀 Maya's Journey Continues
 
-### Next Step
+Maya has now **complete the title and abstract**.
+The next challenge is to conduct the Full-Text Screening.
 
-**Step 9 — Full-Text Screening**
+### **[Step 9 — Full-Text Screening](https://github.com/adnan-mayof/Full-Text-Screening/blob/main/README.md))**
+ 
